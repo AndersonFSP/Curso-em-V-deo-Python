@@ -40,8 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.071-VersãoSimplificada">
-    <configuration name="069-AnalisandoDadosDeGrupo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.083-ValidadndoExpressõesMatemáticas">
+    <configuration name="080-ListaOrdenadaSemRepeticao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/069-AnalisandoDadosDeGrupo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/080-ListaOrdenadaSemRepeticao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="070-Lojas Super" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="082-DividindoValoresEmListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/070-Lojas Super.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/082-DividindoValoresEmListas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="071-SimuladorDeCaixaEletronico" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="083-ValidadndoExpressõesMatemáticas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/071-SimuladorDeCaixaEletronico.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/083-ValidadndoExpressõesMatemáticas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="071-VersãoSimplificada" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="81-ExtraindoDadosDeUmaLista" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/071-VersãoSimplificada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/81-ExtraindoDadosDeUmaLista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sdffd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="areaDeTeste" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Elias\PycharmProjects\PythonExercicios\071-VersãoSimplificada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/areaDeTeste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.071-VersãoSimplificada" />
-        <item itemvalue="Python.071-SimuladorDeCaixaEletronico" />
-        <item itemvalue="Python.sdffd" />
-        <item itemvalue="Python.070-Lojas Super" />
-        <item itemvalue="Python.069-AnalisandoDadosDeGrupo" />
+        <item itemvalue="Python.083-ValidadndoExpressõesMatemáticas" />
+        <item itemvalue="Python.082-DividindoValoresEmListas" />
+        <item itemvalue="Python.81-ExtraindoDadosDeUmaLista" />
+        <item itemvalue="Python.080-ListaOrdenadaSemRepeticao" />
+        <item itemvalue="Python.areaDeTeste" />
       </list>
     </recent_temporary>
   </component>

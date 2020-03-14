@@ -35,9 +35,9 @@ def calculaValores(entrada):
             soma += matriz[i][j]
             cont += 1
     media = retiraMedia(soma, cont)
-    numerosMaioresMedia = verificaMediaComColunas(matriz, entrada, media)
     print(f'Média dos Valores Sorteados:\n{media:.1f}')
-    exibe(numerosMaioresMedia)
+    print()
+    exibe(verificaMediaComColunas(matriz, entrada, media))
 
 
 def mostraMatriz(entrada):

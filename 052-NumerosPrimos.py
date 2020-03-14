@@ -8,7 +8,7 @@ for c in range(1, num + 1 ):
         print('\33[31m', end='')
     print(c, end=' ')
 print("\n\33[mO numero {} foi divisivel {} vezes".format(num, cont))
-if cont <= 2:
+if cont == 2:
     print('O número é PRIMO')
 else:
     print('O numero não é PRIMO')

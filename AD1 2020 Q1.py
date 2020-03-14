@@ -17,16 +17,20 @@ while True:
     if palavra == '':
         break
     cont += 1
+
     tamanho = medePalavra(palavra)
     if cont == 1:
         maiorStr = palavra
         maiorNumDigitos = 0
+
     if tamanho > len(maiorStr):
         maiorStr = palavra
+
     numDigitos = mapeiaString(palavra, '0123456789')
     if(numDigitos >= maiorNumDigitos and numDigitos != 0 ):
         maiorNumDigitos = numDigitos
         maiorNumDigitosPalavra = palavra
+
     numMinusculas = mapeiaString(palavra, 'aeiou')
     if (numMinusculas == len(palavra)):
         somenteMinusculas += 1

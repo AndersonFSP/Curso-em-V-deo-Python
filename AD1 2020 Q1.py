@@ -10,10 +10,10 @@ def medePalavra(palavra):
         return len(palavra)
 
 maiorNumDigitosPalavra = ''
-somenteMinusculas=0
+somenteMinusculas = 0
 cont = 0
 while True:
-    palavra = str(input('digite: '))
+    palavra = str(input())
     if palavra == '':
         break
     cont += 1
